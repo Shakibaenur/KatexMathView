@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml:2:5-46
+		INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml
+		INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml:4:5-11:19
+provider#shakiba.enur.skatexmath.SKatexMathInitProvider
+ADDED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml:6:9-9:40
+	android:authorities
+		ADDED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml:8:13-74
+	android:exported
+		ADDED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml:9:13-37
+	android:name
+		ADDED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml:7:13-74
+uses-sdk
+INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml
+INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml
+INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml
+INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml
+		ADDED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml
+		INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml
+		ADDED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml
+		INJECTED from /home/bs872/AndroidStudioProjects/KatexMathView/skatexmath/src/main/AndroidManifest.xml

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <declare-styleable name="KatexMathView">-->
+<!--        <attr name="skmv_latex" format="string" />-->
+<!--        <attr name="skmv_textSize" format="dimension" />-->
+<!--        <attr name="skmv_textColor" format="color" />-->
+<!--        <attr name="skmv_background" format="reference" />-->
+<!--        <attr name="skmv_alignVertical" format="enum">-->
+<!--            <enum name="start" value="0" />-->
+<!--            <enum name="center" value="1" />-->
+<!--            <enum name="end" value="2" />-->
+<!--        </attr>-->
+<!--        <attr name="skmv_alignHorizontal" format="enum">-->
+<!--            <enum name="start" value="0" />-->
+<!--            <enum name="center" value="1" />-->
+<!--            <enum name="end" value="2" />-->
+<!--        </attr>-->
+<!--        <attr name="setEnableKatexView" format="boolean" />-->
+<!--    </declare-styleable>-->
+<!--    <declare-styleable name="KatexView2">-->
+<!--        <attr name="showText" format="boolean" />-->
+<!--        <attr name="labelPosition" format="enum">-->
+<!--            <enum name="left" value="0" />-->
+<!--            <enum name="right" value="1" />-->
+<!--        </attr>-->
+<!--    </declare-styleable>-->
+</resources>

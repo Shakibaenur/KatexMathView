@@ -1,0 +1,12 @@
+shakiba.enur.skatexmath.android
+attr skmv_alignHorizontal
+attr skmv_alignVertical
+attr skmv_background
+attr skmv_font
+attr skmv_latex
+attr skmv_textColor
+attr skmv_textSize
+id center
+id end
+id start
+styleable SKatexMathView skmv_alignHorizontal skmv_alignVertical skmv_background skmv_font skmv_latex skmv_textColor skmv_textSize

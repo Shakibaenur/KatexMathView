@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SKatexMathView">
+        <attr format="string" name="skmv_latex"/>
+        <attr format="dimension" name="skmv_textSize"/>
+        <attr format="color" name="skmv_textColor"/>
+        <attr format="reference" name="skmv_background"/>
+        <attr format="string" name="skmv_font"/>
+        <attr format="enum" name="skmv_alignVertical">
+            <enum name="start" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="end" value="2"/>
+        </attr>
+        <attr format="enum" name="skmv_alignHorizontal">
+            <enum name="start" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="end" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>
